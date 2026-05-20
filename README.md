@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Garrett! 👋
 
-<!--
-**gmBrooks26/gmBrooks26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analytics and Information Systems (BAIS) student at the University of South Florida pursuing a career in Systems Administration.
 
-Here are some ideas to get you started:
+## Academic Interests
+- Business Analytics and Information Systems
+- IT Infrastructure
+- Enterprise Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Career Goals
+Aspiring Systems Administrator focused on building both technical and infrastructure skills.
+
+## Technical Skills & Learning
+- Java
+- Git & Version Control
+- SQL / Database Querying
+- Information Systems Concepts
