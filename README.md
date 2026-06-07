@@ -1,6 +1,6 @@
-## Hi, I'm Garrett! 👋
+## Hi, my name is Garrett!
 
-Business Analytics and Information Systems (BAIS) student at the University of South Florida pursuing a career in Systems Administration.
+I am a Business Analytics and Information Systems (BAIS) student at the University of South Florida pursuing a future career in Systems Administration.
 
 ## Academic Interests
 - Business Analytics and Information Systems
