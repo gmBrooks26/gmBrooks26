@@ -12,6 +12,6 @@ Aspiring Systems Administrator focused on building both technical and infrastruc
 
 ## Technical Skills & Learning
 - Java
-- Git & Version Control
+- HTML
 - SQL / Database Querying
 - Information Systems Concepts
