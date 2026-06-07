@@ -14,4 +14,5 @@ Aspiring Systems Administrator focused on building both technical and infrastruc
 - Java
 - HTML
 - SQL / Database Querying
+- Google Colab / Tableau 
 - Information Systems Concepts
